@@ -32,6 +32,11 @@ public class StudentService {
     public List<Student> getAllStudents() {
     	return students;
     }
+    
+    //123456789
+    public int sub(int a, int b) {
+    	return a-b;
+    }
 }
  
  
